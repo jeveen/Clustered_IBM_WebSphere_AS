@@ -1,0 +1,15 @@
+{
+    "vmware":{
+        "config":{
+            "version":1.0
+        },
+        "applications":{
+            "applicationDirectorWebImport":{
+                "exportFileName":"WebSphere_Clustered.xml",
+                "exportedFileReadme":"WebSphere_Clustered.readme",
+                "importSectionHeader":"Clustered IBM WebSphere Application Server 8.0",
+                "exportedWithAppDVersion":5.0
+            }
+        }
+    }
+}
